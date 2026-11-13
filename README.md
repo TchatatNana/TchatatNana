@@ -13,7 +13,7 @@
 <div align="center">
   <h1>TCHATAT NANA JEAN STÉPHAN</h1>
   <p><strong>SOFTWARE ARCHITECT · FULL-STACK DEVELOPER · AI ENGINEER</strong></p>
-  <p><strong>Founder — JuriTech Labs</strong></p>
+  <p><strong>Founder - JuriTech Labs</strong></p>
   <p>
     <a href="https://juritechlabs.com">JuriTech Labs</a> ·
     <a href="https://portfolio.juritechlabs.com">Portfolio</a> ·
@@ -81,7 +81,7 @@
     <tr><td><strong>JuriTech Control Center</strong></td><td>Application and infrastructure administration and supervision.</td><td><a href="https://control.juritechlabs.com">JuriTech Control Center</a></td></tr>
   </tbody>
 </table>
-<h2>Built — Communication, Community and Safety</h2>
+<h2>Built - Communication, Community and Safety</h2>
 <table>
   <thead><tr><th>Platform</th><th>Description</th><th>Website</th></tr></thead>
   <tbody>
@@ -90,7 +90,7 @@
     <tr><td><strong>Houba Houba</strong></td><td>Family safety platform with SOS alerts, child profiles and parent–child communication.</td><td><a href="https://houbahouba.juritechlabs.com">Houba Houba</a></td></tr>
   </tbody>
 </table>
-<h2>Built — Portfolio and Other Projects</h2>
+<h2>Built - Portfolio and Other Projects</h2>
 <table>
   <thead><tr><th>Project</th><th>Description</th><th>Website</th></tr></thead>
   <tbody>
