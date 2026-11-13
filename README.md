@@ -40,7 +40,7 @@
   <thead><tr><th>Platform</th><th>Description</th><th>Website</th></tr></thead>
   <tbody>
     <tr><td><strong>Core⁺</strong></td><td>General-purpose sovereign AI with conversations, workspace, dictation, editorial tools, documentation and RAG.</td><td><a href="https://coreplus.juritechlabs.com">Core⁺</a></td></tr>
-    <tr><td><strong>Agent85</strong></td><td>SuperAgent capable of creating specialized AI agents as needed for different tasks and organizations.</td><td><a href="agent85-classic.juritechlabs.com">Agent85</a></td></tr>
+    <tr><td><strong>Agent85</strong></td><td>SuperAgent capable of creating specialized AI agents as needed for different tasks and organizations.</td><td><a href="https://agent85-classic.juritechlabs.com">Agent85</a></td></tr>
     <tr><td><strong>Agent85 Autonomous</strong></td><td>Autonomous execution and coordination of agents, tools and operational workflows.</td><td><a href="https://agent85.juritechlabs.com">Agent85 Autonomous</a></td></tr>
     <tr><td><strong>SentinelAI</strong></td><td>AI governance, supervision and oversight platform.</td><td><a href="https://sentinelai.juritechlabs.com">SentinelAI</a></td></tr>
     <tr><td><strong>CAUSAL-3</strong></td><td>Autonomous AI initiative within the Core⁺ ecosystem.</td><td>JuriTech Labs</td></tr>
