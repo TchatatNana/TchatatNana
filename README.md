@@ -1,71 +1,85 @@
-<!-- GitHub profile README: TchatatNana/TchatatNana -->
+<!-- Profil GitHub public : https://github.com/TchatatNana -->
+<!-- HTML volontairement utilisé pour préserver les titres, liens et tableaux à l'affichage. -->
 <div align="center">
   <h1>TCHATAT NANA JEAN STÉPHAN</h1>
   <p><strong>SOFTWARE ARCHITECT · FULL-STACK DEVELOPER · AI ENGINEER</strong></p>
-  <p>Founder of <a href="https://juritechlabs.com">JuriTech Labs</a></p>
+  <p><strong>Founder - JuriTech Labs</strong></p>
   <p>
-    <a href="https://juritechlabs.com">Website</a> ·
+    <a href="https://juritechlabs.com">JuriTech Labs</a> ·
     <a href="https://portfolio.juritechlabs.com">Portfolio</a> ·
-    <a href="https://github.com/JuriTech-Labs">GitHub Organization</a> ·
     <a href="mailto:contact@juritechlabs.com">Contact</a>
   </p>
 </div>
----
-About
-I design and build full-stack applications, distributed backends, AI platforms and autonomous agent systems.
-My work spans software architecture, APIs, databases, cloud infrastructure, automation, AI engineering, product development and deployment.
-Engineering: JavaScript, TypeScript, Python, Java, PHP and SQL
-Frontend: React, Next.js, React Native, HTML, CSS and Tailwind CSS
-Backend: Node.js, NestJS, Express, REST APIs and WebSockets
-Data: PostgreSQL, MySQL, MariaDB, MongoDB, Prisma and TypeORM
-Infrastructure: Docker, Linux, Nginx, Cloudflare and AWS
-AI: LLM integration, RAG, AI agents, tool use and autonomous workflows
-Methods: Software architecture, Scrum and Agile product delivery
----
-Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java,php,react,nextjs,tailwind,nodejs,nestjs,express,prisma,postgres,mysql,mongodb,docker,linux,nginx,git,github,redis,aws,firebase,postman&perline=8&theme=dark" alt="JavaScript, TypeScript, Python, Java, PHP, React, Next.js, Tailwind CSS, Node.js, NestJS, Express, Prisma, PostgreSQL, MySQL, MongoDB, Docker, Linux, Nginx, Git, GitHub, Redis, AWS, Firebase and Postman" />
+<hr>
+<h2>About</h2>
+<p>
+  I design, develop and deliver full-stack applications, AI platforms, autonomous agent systems,
+  business software and cloud-enabled products. My work covers software architecture, frontend,
+  backend, databases, integrations, deployment and operational automation.
 </p>
-Additional tools: React Native · TypeORM · MariaDB · Cloudflare · REST APIs · WebSockets · JWT · Stripe · PayPal
-AI engineering: LLMs · RAG · AI Agents · MCP · Workflow Automation · Tool Integration
----
-Built - AI Platforms and Agents
-Platform	Description	Website
-Core⁺	General-purpose AI platform with conversations, workspace, documentation, dictation, content tools and RAG.	Open Core⁺
-Agent85 Classic	SuperAgent for creating and operating specialized AI agents according to user and business needs.	Open Agent85 Classic
-Agent85 Autonomous	Autonomous agent platform for coordinating tasks, tools and specialized AI workflows.	Open Agent85 Autonomous
-SentinelAI	AI governance, oversight and supervision platform.	Open SentinelAI
-Built - Business and Commerce
-Platform	Description	Website
-GrowUp	Multi-company workspace with CRM, customers, conversations, orders, invoices, automation and WhatsApp Business / GrowUp Chat integrations.	Open GrowUp
-Proposals	Platform for creating, managing and tracking commercial proposals and their statuses.	Open Proposals
-GALERIE	Multi-vendor marketplace with shops, catalogues, orders, payments and logistics workflows.	Open GALERIE
-JuriGifts	JuriTech Labs gifting and commerce application.	Open JuriGifts
-JuriTech Control Center	Internal control and supervision workspace for JuriTech Labs applications and services.	Internal platform
-Built - Communication and Community
-Platform	Description	Website
-JOIN	Browser-based social and communication platform with messaging, communities, live content and user profiles.	Open JOIN
-LiveQ	Multilingual live questions and audience interaction using QR codes and public display.	Open LiveQ
-Houba Houba	Family safety application with child profiles, SOS alerts, location and parent–child communication.	Open Houba Houba
-Built - Personal Presence
-Platform	Description	Website
-Portfolio	Personal developer portfolio with independent administration and project presentation.	Open Portfolio
-Other Projects and Engineering Work
-CAUSAL-3 - Autonomous AI initiative associated with Core⁺.
-AI Creative Studio - Creative AI tools and workflows within the Core⁺ ecosystem.
-Multifunctional Quiz Platform - Interactive quiz and assessment platform project.
-BLACK Planet - Digital platform project.
----
-Engineering Focus
-End-to-end delivery: architecture, frontend, backend, databases and deployment
-AI assistants, autonomous agents, retrieval-augmented generation and integrations
-Multi-tenant applications, authentication, permissions and business workflows
-Monitoring, infrastructure automation and production-oriented development
----
-Connect
-Website: juritechlabs.com
-Portfolio: portfolio.juritechlabs.com
-GitHub: github.com/TchatatNana
-Organization: github.com/JuriTech-Labs
-Email: contact@juritechlabs.com
-<!-- GitHub displays the real contribution calendar below the profile README automatically. -->
+<h2>Stack</h2>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,php,react,nextjs,tailwind,nodejs,nestjs,express,prisma,postgres,mysql,mongodb,docker,linux,nginx,git,github,redis,aws,firebase,postman&amp;perline=8&amp;theme=dark" alt="JavaScript, TypeScript, Python, Java, PHP, React, Next.js, Tailwind CSS, Node.js, NestJS, Express, Prisma, PostgreSQL, MySQL, MongoDB, Docker, Linux, Nginx, Git, GitHub, Redis, AWS, Firebase, Postman" />
+</p>
+<p><strong>Additional technologies:</strong> React Native · TypeORM · MariaDB · Cloudflare · REST APIs · WebSockets · JWT · Stripe · PayPal</p>
+<p><strong>AI:</strong> LLMs · RAG · AI Agents · Agent Orchestration · MCP · Tool Integration · Workflow Automation</p>
+<p><strong>Methods:</strong> Software Architecture · Scrum · Agile Product Development</p>
+<hr>
+<h2>Built — AI Platforms and Agents</h2>
+<table>
+  <thead><tr><th>Platform</th><th>Description</th><th>Website</th></tr></thead>
+  <tbody>
+    <tr><td><strong>Core⁺</strong></td><td>General-purpose sovereign AI with conversations, workspace, dictation, editorial tools, documentation and RAG.</td><td><a href="https://coreplus.juritechlabs.com">Core⁺</a></td></tr>
+    <tr><td><strong>Agent85 Classic</strong></td><td>SuperAgent capable of creating specialized AI agents as needed for different tasks and organizations.</td><td><a href="https://agent85.juritechlabs.com">Agent85</a></td></tr>
+    <tr><td><strong>Agent85 Autonomous</strong></td><td>Autonomous execution and coordination of agents, tools and operational workflows.</td><td>JuriTech Labs</td></tr>
+    <tr><td><strong>SentinelAI</strong></td><td>AI governance, supervision and oversight platform.</td><td><a href="https://sentinelai.juritechlabs.com">SentinelAI</a></td></tr>
+    <tr><td><strong>CAUSAL-3</strong></td><td>Autonomous AI initiative within the Core⁺ ecosystem.</td><td>JuriTech Labs</td></tr>
+    <tr><td><strong>AI Creative Studio</strong></td><td>AI-assisted creative production and content workflows.</td><td>Core⁺ ecosystem</td></tr>
+  </tbody>
+</table>
+<h2>Built — Business, Commerce and Operations</h2>
+<table>
+  <thead><tr><th>Platform</th><th>Description</th><th>Website</th></tr></thead>
+  <tbody>
+    <tr><td><strong>GrowUp</strong></td><td>Business workspace for CRM, customer interactions, operations and automation.</td><td>JuriTech Labs</td></tr>
+    <tr><td><strong>Proposals</strong></td><td>Commercial proposal creation, management and follow-up.</td><td>JuriTech Labs</td></tr>
+    <tr><td><strong>GALERIE</strong></td><td>Multi-vendor marketplace with shops, catalogues, orders and logistics workflows.</td><td><a href="https://galerie.juritechlabs.com">GALERIE</a></td></tr>
+    <tr><td><strong>JuriGifts</strong></td><td>Gifting and commerce application.</td><td>JuriTech Labs</td></tr>
+    <tr><td><strong>JuriTech Control Center</strong></td><td>Application and infrastructure administration and supervision.</td><td>JuriTech Labs</td></tr>
+  </tbody>
+</table>
+<h2>Built — Communication, Community and Safety</h2>
+<table>
+  <thead><tr><th>Platform</th><th>Description</th><th>Website</th></tr></thead>
+  <tbody>
+    <tr><td><strong>JOIN</strong></td><td>Communication and community platform with messaging and real-time interactions.</td><td>JuriTech Labs</td></tr>
+    <tr><td><strong>LiveQ</strong></td><td>Multilingual live questions and audience participation through QR codes.</td><td>JuriTech Labs</td></tr>
+    <tr><td><strong>Houba Houba</strong></td><td>Family safety platform with SOS alerts, child profiles and parent–child communication.</td><td>JuriTech Labs</td></tr>
+  </tbody>
+</table>
+<h2>Built — Portfolio and Other Projects</h2>
+<table>
+  <thead><tr><th>Project</th><th>Description</th><th>Website</th></tr></thead>
+  <tbody>
+    <tr><td><strong>Portfolio</strong></td><td>Personal developer portfolio with independent administration and project presentation.</td><td><a href="https://portfolio.juritechlabs.com">Portfolio</a></td></tr>
+    <tr><td><strong>Multifunctional Quiz Platform</strong></td><td>Interactive quiz and assessment platform.</td><td>JuriTech Labs</td></tr>
+    <tr><td><strong>BLACK Planet</strong></td><td>Digital platform project.</td><td>JuriTech Labs</td></tr>
+    <tr><td><strong>Phoenix DMS</strong></td><td>Document management and OCR engineering work.</td><td>Engineering experience</td></tr>
+  </tbody>
+</table>
+<hr>
+<h2>Engineering Focus</h2>
+<ul>
+  <li>Software architecture, full-stack engineering, scalable APIs and databases</li>
+  <li>AI integration, RAG, autonomous agents and specialized AI workflows</li>
+  <li>Authentication, multi-tenant services and business process automation</li>
+  <li>Containers, infrastructure operations, security and deployment</li>
+</ul>
+<h2>Connect</h2>
+<ul>
+  <li><strong>Website:</strong> <a href="https://juritechlabs.com">juritechlabs.com</a></li>
+  <li><strong>Portfolio:</strong> <a href="https://portfolio.juritechlabs.com">portfolio.juritechlabs.com</a></li>
+  <li><strong>GitHub:</strong> <a href="https://github.com/TchatatNana">github.com/TchatatNana</a></li>
+  <li><strong>Email:</strong> <a href="mailto:contact@juritechlabs.com">contact@juritechlabs.com</a></li>
+</ul>
+<!-- GitHub affiche automatiquement le calendrier des contributions sur la page du profil. -->
