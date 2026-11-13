@@ -29,32 +29,32 @@ Stack
 Additional tools: React Native · TypeORM · MariaDB · Cloudflare · REST APIs · WebSockets · JWT · Stripe · PayPal
 AI engineering: LLMs · RAG · AI Agents · MCP · Workflow Automation · Tool Integration
 ---
-Built — AI Platforms and Agents
+Built - AI Platforms and Agents
 Platform	Description	Website
 Core⁺	General-purpose AI platform with conversations, workspace, documentation, dictation, content tools and RAG.	Open Core⁺
 Agent85 Classic	SuperAgent for creating and operating specialized AI agents according to user and business needs.	Open Agent85 Classic
 Agent85 Autonomous	Autonomous agent platform for coordinating tasks, tools and specialized AI workflows.	Open Agent85 Autonomous
 SentinelAI	AI governance, oversight and supervision platform.	Open SentinelAI
-Built — Business and Commerce
+Built - Business and Commerce
 Platform	Description	Website
 GrowUp	Multi-company workspace with CRM, customers, conversations, orders, invoices, automation and WhatsApp Business / GrowUp Chat integrations.	Open GrowUp
 Proposals	Platform for creating, managing and tracking commercial proposals and their statuses.	Open Proposals
 GALERIE	Multi-vendor marketplace with shops, catalogues, orders, payments and logistics workflows.	Open GALERIE
 JuriGifts	JuriTech Labs gifting and commerce application.	Open JuriGifts
 JuriTech Control Center	Internal control and supervision workspace for JuriTech Labs applications and services.	Internal platform
-Built — Communication and Community
+Built - Communication and Community
 Platform	Description	Website
 JOIN	Browser-based social and communication platform with messaging, communities, live content and user profiles.	Open JOIN
 LiveQ	Multilingual live questions and audience interaction using QR codes and public display.	Open LiveQ
 Houba Houba	Family safety application with child profiles, SOS alerts, location and parent–child communication.	Open Houba Houba
-Built — Personal Presence
+Built - Personal Presence
 Platform	Description	Website
 Portfolio	Personal developer portfolio with independent administration and project presentation.	Open Portfolio
 Other Projects and Engineering Work
-CAUSAL-3 — Autonomous AI initiative associated with Core⁺.
-AI Creative Studio — Creative AI tools and workflows within the Core⁺ ecosystem.
-Multifunctional Quiz Platform — Interactive quiz and assessment platform project.
-BLACK Planet — Digital platform project.
+CAUSAL-3 - Autonomous AI initiative associated with Core⁺.
+AI Creative Studio - Creative AI tools and workflows within the Core⁺ ecosystem.
+Multifunctional Quiz Platform - Interactive quiz and assessment platform project.
+BLACK Planet - Digital platform project.
 ---
 Engineering Focus
 End-to-end delivery: architecture, frontend, backend, databases and deployment
