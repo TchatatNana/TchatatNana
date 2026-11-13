@@ -25,7 +25,7 @@
 <p><strong>AI:</strong> LLMs · RAG · AI Agents · Agent Orchestration · MCP · Tool Integration · Workflow Automation</p>
 <p><strong>Methods:</strong> Software Architecture · Scrum · Agile Product Development</p>
 <hr>
-<h2>Built — AI Platforms and Agents</h2>
+<h2>Built - AI Platforms and Agents</h2>
 <table>
   <thead><tr><th>Platform</th><th>Description</th><th>Website</th></tr></thead>
   <tbody>
