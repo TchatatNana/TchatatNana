@@ -13,7 +13,7 @@
 <div align="center">
   <h1>TCHATAT NANA JEAN STÉPHAN</h1>
   <p><strong>SOFTWARE ARCHITECT · FULL-STACK DEVELOPER · AI ENGINEER</strong></p>
-  <p><strong>Founder — JuriTech Labs</strong></p>
+  <p><strong>Founder - JuriTech Labs</strong></p>
   <p>
     <a href="https://juritechlabs.com">JuriTech Labs</a> ·
     <a href="https://portfolio.juritechlabs.com">Portfolio</a> ·
@@ -35,7 +35,7 @@
 <p><strong>AI:</strong> LLMs · RAG · AI Agents · Agent Orchestration · MCP · Tool Integration · Workflow Automation</p>
 <p><strong>Methods:</strong> Software Architecture · Scrum · Agile Product Development</p>
 <hr>
-<h2>Built — AI Platforms and Agents</h2>
+<h2>Built - AI Platforms and Agents</h2>
 <table>
   <thead><tr><th>Platform</th><th>Description</th><th>Website</th></tr></thead>
   <tbody>
@@ -47,7 +47,7 @@
     <tr><td><strong>AI Creative Studio</strong></td><td>AI-assisted creative production and content workflows.</td><td>Core⁺ ecosystem</td></tr>
   </tbody>
 </table>
-<h2>Built — Business, Commerce and Operations</h2>
+<h2>Built - Business, Commerce and Operations</h2>
 <table>
   <thead><tr><th>Platform</th><th>Description</th><th>Website</th></tr></thead>
   <tbody>
@@ -58,7 +58,7 @@
     <tr><td><strong>JuriTech Control Center</strong></td><td>Application and infrastructure administration and supervision.</td><td>JuriTech Labs</td></tr>
   </tbody>
 </table>
-<h2>Built — Communication, Community and Safety</h2>
+<h2>Built - Communication, Community and Safety</h2>
 <table>
   <thead><tr><th>Platform</th><th>Description</th><th>Website</th></tr></thead>
   <tbody>
@@ -67,7 +67,7 @@
     <tr><td><strong>Houba Houba</strong></td><td>Family safety platform with SOS alerts, child profiles and parent–child communication.</td><td>JuriTech Labs</td></tr>
   </tbody>
 </table>
-<h2>Built — Portfolio and Other Projects</h2>
+<h2>Built - Portfolio and Other Projects</h2>
 <table>
   <thead><tr><th>Project</th><th>Description</th><th>Website</th></tr></thead>
   <tbody>
