@@ -40,7 +40,8 @@
   <thead><tr><th>Platform</th><th>Description</th><th>Website</th></tr></thead>
   <tbody>
     <tr><td><strong>Core⁺</strong></td><td>General-purpose sovereign AI with conversations, workspace, dictation, editorial tools, documentation and RAG.</td><td><a href="https://coreplus.juritechlabs.com">Core⁺</a></td></tr>
-    <tr><td><strong>Agent85</strong></td><td>SuperAgent capable of creating specialized AI agents as needed for different tasks and organizations.</td><td><a href="https://agent85-classic.juritechlabs.com">Agent85</a></td></tr>
+    <tr><td><strong>Agent85</strong></td><td>SuperAgent capable of creating specialized AI agents as needed for different tasks and organizations.</td><td><a href="https://agent85-classic.juritechlabs.com">Agent85</a></td>
+</tr>
     <tr><td><strong>Agent85 Autonomous</strong></td><td>Autonomous execution and coordination of agents, tools and operational workflows.</td><td><a href="https://agent85.juritechlabs.com">Agent85 Autonomous</a></td></tr>
     <tr><td><strong>SentinelAI</strong></td><td>AI governance, supervision and oversight platform.</td><td><a href="https://sentinelai.juritechlabs.com">SentinelAI</a></td></tr>
     <tr><td><strong>CAUSAL-3</strong></td><td>Autonomous AI initiative within the Core⁺ ecosystem.</td><td>JuriTech Labs</td></tr>
@@ -51,20 +52,20 @@
 <table>
   <thead><tr><th>Platform</th><th>Description</th><th>Website</th></tr></thead>
   <tbody>
-    <tr><td><strong>GrowUp</strong></td><td>Business workspace for CRM, customer interactions, operations and automation.</td><td>JuriTech Labs</td></tr>
-    <tr><td><strong>Proposals</strong></td><td>Commercial proposal creation, management and follow-up.</td><td>JuriTech Labs</td></tr>
+    <tr><td><strong>GrowUp</strong></td><td>Business workspace for CRM, customer interactions, operations and automation.</td><td><a href="https://growup.juritechlabs.com">GrowUp</a></td></tr>
+    <tr><td><strong>Proposals</strong></td><td>Commercial proposal creation, management and follow-up.</td><td><a href="https://proposals.juritechlabs.com">Proposals</a></td></tr>
     <tr><td><strong>GALERIE</strong></td><td>Multi-vendor marketplace with shops, catalogues, orders and logistics workflows.</td><td><a href="https://galerie.juritechlabs.com">GALERIE</a></td></tr>
-    <tr><td><strong>JuriGifts</strong></td><td>Gifting and commerce application.</td><td>JuriTech Labs</td></tr>
-    <tr><td><strong>JuriTech Control Center</strong></td><td>Application and infrastructure administration and supervision.</td><td>JuriTech Labs</td></tr>
+    <tr><td><strong>JuriGifts</strong></td><td>Gifting and commerce application.</td><td><a href="https://jurigifts.juritechlabs.com">JuriGifts</a></td></tr>
+    <tr><td><strong>JuriTech Control Center</strong></td><td>Application and infrastructure administration and supervision.</td><td><a href="https://control.juritechlabs.com">JuriTech Control Center</a></td></tr>
   </tbody>
 </table>
 <h2>Built - Communication, Community and Safety</h2>
 <table>
   <thead><tr><th>Platform</th><th>Description</th><th>Website</th></tr></thead>
   <tbody>
-    <tr><td><strong>JOIN</strong></td><td>Communication and community platform with messaging and real-time interactions.</td><td>JuriTech Labs</td></tr>
-    <tr><td><strong>LiveQ</strong></td><td>Multilingual live questions and audience participation through QR codes.</td><td>JuriTech Labs</td></tr>
-    <tr><td><strong>Houba Houba</strong></td><td>Family safety platform with SOS alerts, child profiles and parent–child communication.</td><td>JuriTech Labs</td></tr>
+    <tr><td><strong>JOIN</strong></td><td>Communication and community platform with messaging and real-time interactions.</td><td><a href="https://join.juritechlabs.com">JOIN</a></td></tr>
+    <tr><td><strong>LiveQ</strong></td><td>Multilingual live questions and audience participation through QR codes.</td><td><a href="https://liveq.juritechlabs.com">LiveQ</a></td></tr>
+    <tr><td><strong>Houba Houba</strong></td><td>Family safety platform with SOS alerts, child profiles and parent–child communication.</td><td><a href="https://houbahouba.juritechlabs.com">Houba Houba</a></td></tr>
   </tbody>
 </table>
 <h2>Built - Portfolio and Other Projects</h2>
@@ -78,6 +79,7 @@
   </tbody>
 </table>
 <hr>
+
 <h2>Engineering Focus</h2>
 <ul>
   <li>Software architecture, full-stack engineering, scalable APIs and databases</li>
